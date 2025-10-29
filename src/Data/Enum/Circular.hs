@@ -1,5 +1,3 @@
-{-# LANGUAGE InstanceSigs #-}
-{-# LANGUAGE ScopedTypeVariables #-}
 {-|
 Module      : Data.Enum.Circular
 Description : Circular successor & predecessor for bounded enum types
